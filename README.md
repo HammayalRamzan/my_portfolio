@@ -1,7 +1,4 @@
 # my_portfolio
-# Hammayl's Portfolio 🎯
-
-Welcome to my personal portfolio! This project showcases my journey and skills in artificial intelligence and web development using Streamlit. Here, you will find interactive applications and projects that reflect my proficiency in Python and machine learning. Each project highlights my passion for creating innovative solutions and my commitment to continuous learning in the AI field. Feel free to explore and connect! Let's collaborate!
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -10,32 +7,8 @@ Welcome to my personal portfolio! This project showcases my journey and skills i
 - [Contact](#contact)
 - [Code Explanation](#code-explanation)
 
-## About Me
-I'm Hammayal Ramzan, an AI Enthusiast, Developer, Programmer, and Freelancer. I'm dedicated to acquiring AI skills that will help me make a meaningful impact in the field. Open to new opportunities!
+🚀 *Live Demo*: [Click Here]()
 
-- **Email:** [hammayalramzan@gmail.com](mailto:hammayalramzan@gmail.com)
-- **LinkedIn:** [linkedin.com/in/hammayal_ramzan](https://www.linkedin.com/in/hammayal-ramzan-a9b722313/)
-- **Instagram:** [instagram.com/hammayal_ramzan](https://www.instagram.com/hammayal_ramzan/)
-- **GitHub:** [github.com/hammayal_ramzan](https://github.com/HammayalRamzan)
-
-## Skills ⚡
-- 🧠 AI & Machine Learning
-- 🔗 LangChain & CrewAI
-- 🖥️ Python 
-- 🌐 Chainlit & Streamlit
-- 🤖 Generative AI & RAG
-- 💼 Freelancing with AI
-
-## Projects 🚀
-- **[Code Cracker](https://codecracker-project.streamlit.app/)** - Enter an encrypted message, choose a cipher, and crack the code instantly!
-- **[Research Agent](https://github.com/HammayalRamzan/Research_agent00)** - An AI-powered assistant that automates research, extracts insights, verifies data, and delivers structured reports for efficient decision-making.
-- **[AI Rehman Clothing Website](https://clothing-website.streamlit.app/)** - Clothing brand website built with Streamlit.
-- **Karate Website** - Coming Soon.
-
-## Contact 📬
-I welcome the opportunity to connect for collaborations, project inquiries, or any questions you may have. Don't hesitate to reach out!
-
-- **Hire Me** - I'm open to work! Feel free to reach out via email at [hammayalramzan@gmail.com](mailto:hammayalramzan@gmail.com).
 
 ## Code Explanation 🛠️
 
@@ -69,4 +42,33 @@ Here is a breakdown of the key components and functions used in my portfolio cod
 6. **Contact Section**:
    - `st.subheader(...)`: Displays a header for the contact section.
    - `st.write(...)`: Invites connections and inquiries.
+## 🤝 Contributing  
+
+🔹 *Want to improve this project?* Contributions are welcome!  
+
+1. *Fork the repository*  
+2. *Create a new branch* (feature-new-cipher)  
+3. *Make your changes & commit*  
+4. *Push the changes & create a pull request*  
+
+---
+
+## ⭐ Show Some Love!  
+
+If you found this project useful, please *⭐ Star this repository* on GitHub! It helps others discover it.  
+
+---
+
+## 📞 Contact & Support  
+
+Have questions or suggestions? Reach out to me!  
+📧 Email: hammayalramzan@gmail.com
+
+🔗 *LinkedIn:* [Hammayal Ramzan](https://www.linkedin.com/in/hammayal-ramzan-a9b722313/) 
+
+🐙 *GitHub:* [HammayalRamzan](https://github.com/HammayalRamzan)
+
+---
+
+🚀 *Happy Code Cracking!* 🕵️‍♂️🔓
 
