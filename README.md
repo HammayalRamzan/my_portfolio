@@ -1,5 +1,3 @@
-# my_portfolio
-
 ## Table of Contents
 - [About Me](#about-me)
 - [Skills](#skills)
