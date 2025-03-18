@@ -14,8 +14,9 @@ with st.sidebar:
     st.write("I'm dedicated to acquiring AI skills that will help me make a meaningful impact in the field.  Open to new opportunities!")
     st.markdown("**📧 Email:** [Copy Email](hammayalramzan@gmail.com)")
     st.markdown("**🔗 LinkedIn:** [linkedin.com/in/hammayal_ramzan](https://www.linkedin.com/in/hammayal-ramzan-a9b722313/)")
-    st.markdown("**📍 Instagram:** [instagram.com/hammayal_ramzan](https://www.instagram.com/hammayal_ramzan/)")
     st.markdown("**👨‍💻 GitHub:** [github.com/hammayal_ramzan](https://github.com/HammayalRamzan)")
+    st.markdown("**📍 Instagram:** [instagram.com/hammayal_ramzan](https://www.instagram.com/hammayal_ramzan/)")
+
     
     # Hire Me Button
     st.markdown("""
