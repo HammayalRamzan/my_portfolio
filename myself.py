@@ -1,5 +1,5 @@
 import streamlit as st
-from PIL import Image
+#from PIL import Image
 
 # Set page title and favicon
 st.set_page_config(page_title="Hammayl's Portfolio", page_icon="🎯", layout="wide")
@@ -8,8 +8,8 @@ st.set_page_config(page_title="Hammayl's Portfolio", page_icon="🎯", layout="w
 # Sidebar with Image and Details
 with st.sidebar:
     st.title("Hammayal Ramzan")
-    profile_image = Image.open("hammayal.jpeg")
-    st.image(profile_image, width=200, caption="Hammayal Ramzan")
+    # profile_image = Image.open("hammayal.jpeg")
+    # st.image(profile_image, width=200, caption="Hammayal Ramzan")
     st.subheader("AI Enthusiast | Developer | Programmer | Freelancer")
     st.write("I'm dedicated to acquiring AI skills that will help me make a meaningful impact in the field.  Open to new opportunities!")
     st.markdown("**📧 Email:** [Copy Email](hammayalramzan@gmail.com)")
